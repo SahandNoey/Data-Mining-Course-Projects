@@ -1,21 +1,4 @@
 ## Data Mining Course Projects
-### P2.1: House Price Prediction
-- Preprocessed Pandas Data Frame
-- Visualized Data Distribution using Histogram
-- Visualized Data Correlation using Pair Plot and **Heatmap**
-- Trained Model using **Linear Regression**, **Polynomial Regression**, **Ridge Regression**, **Lasso Regression**, **Elastic Net Regression**, and **XGBoost Regression**
-- Evaluate Model Prediction using Mean Squared Error(**MSE**), and **R2 Score**
-- Libraries: **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, and **scikit-learn**
-
-![](https://github.com/SahandNoey/Data-Mining-Course-Projects/blob/master/P2/histogram.png)
-![](https://github.com/SahandNoey/Data-Mining-Course-Projects/blob/master/P2/heatmap.png)
-
-### P2.2: Market Basket Analysis
-- Used **MLXtend** library
-- Applied **TransactionEncoder**
-- Generate Frequent Itemsets using **Apriori** algoirthm
-- Generate **Association Rules**
-
 
 ### P3: Customers Behavior Analysis in an E-commerce
 - **Data Cleaning**
@@ -37,6 +20,23 @@
 ![SMOTE](https://github.com/SahandNoey/Data-Mining-Course-Projects/blob/master/P3/smote.png)
 ![Classifiers Performance](https://github.com/SahandNoey/Data-Mining-Course-Projects/blob/master/P3/classifer%20performance.png)
 ![](https://github.com/SahandNoey/Data-Mining-Course-Projects/blob/master/P3/k-means.png)
+
+### P2.1: House Price Prediction
+- Preprocessed Pandas Data Frame
+- Visualized Data Distribution using Histogram
+- Visualized Data Correlation using Pair Plot and **Heatmap**
+- Trained Model using **Linear Regression**, **Polynomial Regression**, **Ridge Regression**, **Lasso Regression**, **Elastic Net Regression**, and **XGBoost Regression**
+- Evaluate Model Prediction using Mean Squared Error(**MSE**), and **R2 Score**
+- Libraries: **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, and **scikit-learn**
+
+![](https://github.com/SahandNoey/Data-Mining-Course-Projects/blob/master/P2/histogram.png)
+![](https://github.com/SahandNoey/Data-Mining-Course-Projects/blob/master/P2/heatmap.png)
+
+### P2.2: Market Basket Analysis
+- Used **MLXtend** library
+- Applied **TransactionEncoder**
+- Generate Frequent Itemsets using **Apriori** algoirthm
+- Generate **Association Rules**
 
 ### P1: Preprocessing and Visualizing Dataset
 - Libraries: **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, and **scikit-learn**
