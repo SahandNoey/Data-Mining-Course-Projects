@@ -4,15 +4,15 @@
 - **Data Cleaning**
 - **Classification** using Regression
 - **Dimensionality Reduction** using PCA
-- **Over Sampling** using **SMOTE**
+- **Over-Sampling** using **SMOTE**
 - Trained Classifers: **SVM**, **KNN**, **Logistic Regression**, **Decision Tree** as training classifiers
 - Used **Grid Search** for each classifiers
 - Used **Cross Validation** for Grid Search
 - Used Bar Plot to show each classifiers **Accuracy**, **Precision**, **F1 Score**, and **roc_auc Score**
-- Useed Confusion Matrix plot for
+- Useed Confusion Matrix plot for clssification results
 
 - **Clustering** using **K-means** and **DBSCAN** to identify groups of customers with similar characteristics
-- Used **Silhouette** Score to measure Cohesion
+- Used **Silhouette** Score to measure clustering Cohesion
 
 
 ![](P3/pca.png)
@@ -22,10 +22,10 @@
 ![](https://github.com/SahandNoey/Data-Mining-Course-Projects/blob/master/P3/k-means.png)
 
 ### P2.1: House Price Prediction
-- Preprocessed Pandas Data Frame
+- Preprocessed Pandas DataFrame
 - Visualized Data Distribution using Histogram
-- Visualized Data Correlation using Pair Plot and **Heatmap**
-- Trained Model using **Linear Regression**, **Polynomial Regression**, **Ridge Regression**, **Lasso Regression**, **Elastic Net Regression**, and **XGBoost Regression**
+- Visualized **Data Correlation** using Pair Plot and **Heatmap**
+- Trained Models using **Linear Regression**, **Polynomial Regression**, **Ridge Regression**, **Lasso Regression**, **Elastic Net Regression**, and **XGBoost Regression**
 - Evaluate Model Prediction using Mean Squared Error(**MSE**), and **R2 Score**
 - Libraries: **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, and **scikit-learn**
 
@@ -35,8 +35,8 @@
 ### P2.2: Market Basket Analysis
 - Used **MLXtend** library
 - Applied **TransactionEncoder**
-- Generate Frequent Itemsets using **Apriori** algoirthm
-- Generate **Association Rules**
+- Generated Frequent Itemsets using **Apriori** algoirthm
+- Generated **Association Rules**
 
 ### P1: Preprocessing and Visualizing Dataset
 - Libraries: **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, and **scikit-learn**
